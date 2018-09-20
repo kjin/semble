@@ -1,6 +1,6 @@
 {
   "name": "semble",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Format strings into a grid for terminal output",
   "main": "index.js",
   "types": "index.d.ts",
